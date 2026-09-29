@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Disentangling the origins of confidence in speeded perceptual judgments through multimodal imaging",
-  "description": "This multimodal neuroimaging dataset investigates the neural mechanisms of metacognition—the ability to assess decision confidence—by isolating postdecisional from decisional contributions. Healthy volunteers performed perceptual judgments and observed decisions while reporting confidence, with concurrent electroencephalography and functional magnetic resonance imaging recordings. The study reveals dissociable neural correlates of confidence in prefrontal regions and proposes a computational model explaining how decision commitment enhances metacognitive performance.",
-  "methods_description": "Participants performed speeded perceptual judgments (numerosity discrimination) in active and observation conditions while reporting confidence. Data were acquired using concurrent EEG and fMRI. EEG preprocessing included MR-gradient artifact removal, ballistocardiogram correction, bandpass filtering (1-10 Hz), independent component analysis, and dipolar source localization. fMRI analysis employed general linear modeling with parametric modulation by confidence ratings, response times, and perceptual evidence, with group-level results corrected for multiple comparisons using cluster-extent family-wise error correction.",
+  "description": "Simultaneous EEG and fMRI recordings from healthy volunteers who reported their confidence in the accuracy of decisions they either committed themselves or merely observed. The dataset supports analysis of postdecisional contributions to metacognition and includes raw fMRI, BrainVision EEG, T1 anatomical scans and field maps, along with preprocessed EEG and fMRI derivatives.",
+  "methods_description": "EEG was recorded concurrently with fMRI. MR-gradient artifacts were removed by sliding window template subtraction, and ballistocardiogram artifacts were removed in BrainVision Analyzer 2. Data were band-pass filtered at 1-10 Hz, epoched around response onset, re-referenced to a common average, and cleaned with ICA and dipole localization in EEGLAB. fMRI was modeled with a GLM using regressors for the active and observation conditions, parametrically modulated by confidence, response time, and perceptual evidence. Group-level results used cluster-extent FWE correction.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -84,34 +84,33 @@
       "term": "fMRI"
     },
     {
-      "term": "metacognition"
+      "term": "confidence"
     },
     {
-      "term": "confidence judgment"
+      "term": "Metacognition",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000067489"
     },
     {
-      "term": "decision making"
+      "term": "Decision Making",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D003657"
     },
     {
-      "term": "prefrontal cortex"
+      "term": "simultaneous EEG-fMRI"
     },
     {
-      "term": "multimodal imaging"
+      "term": "perceptual judgment"
     }
   ],
   "related_identifiers": [
     {
       "identifier": "10.1073/pnas.1918335117",
       "identifier_type": "DOI",
-      "relation_type": "References"
-    },
-    {
-      "identifier": "https://github.com/nemarDatasets/on002158",
-      "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
     },
     {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on002158",
+      "identifier": "https://github.com/nemarDatasets/on002158",
       "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
     },
@@ -124,6 +123,11 @@
       "identifier": "10.18112/openneuro.ds002158.v1.0.2",
       "identifier_type": "DOI",
       "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on002158",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
   "funding_references": [
@@ -138,15 +142,15 @@
       "award_number": "803122"
     }
   ],
-  "resource_type_specific": "EEG Dataset",
+  "resource_type_specific": "Structural MRI Dataset",
   "modalities": [
-    "eeg",
-    "func",
     "anat",
-    "fmap"
+    "eeg",
+    "fmap",
+    "func"
   ],
   "sizes": [
-    "453.8 GB (848 files)"
+    "423 GB (848 files)"
   ],
   "formats": [
     ".Rhistory",
