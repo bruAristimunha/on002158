@@ -1,0 +1,1293 @@
+{
+  "SourceGitCommit": "4f0582a7cdaddc1d7ec816eee2e92409352705db",
+  "Derivation": "TaskName is the literal existing BIDS filename task identifier, not an inferred experiment description. All original tracked entries remain unchanged.",
+  "AddedSidecars": [
+    {
+      "path": "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-001_eeg.eeg",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-002_eeg.eeg",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-003_eeg.eeg",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-004_eeg.eeg",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-005_eeg.eeg",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-006_eeg.eeg",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-02/ses-001/eeg/sub-02_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-001_eeg.eeg",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-002_eeg.eeg",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-003_eeg.eeg",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-004_eeg.eeg",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-005_eeg.eeg",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-006_eeg.eeg",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-04/ses-001/eeg/sub-04_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-001_eeg.eeg",
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-002_eeg.eeg",
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-003_eeg.eeg",
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-004_eeg.eeg",
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-07/ses-001/eeg/sub-07_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-001_eeg.eeg",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-002_eeg.eeg",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-003_eeg.eeg",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-004_eeg.eeg",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-005_eeg.eeg",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-006_eeg.eeg",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-08/ses-001/eeg/sub-08_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-001_eeg.eeg",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-002_eeg.eeg",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-003_eeg.eeg",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-004_eeg.eeg",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-005_eeg.eeg",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-006_eeg.eeg",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-09/ses-001/eeg/sub-09_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-001_eeg.eeg",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-002_eeg.eeg",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-003_eeg.eeg",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-004_eeg.eeg",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-005_eeg.eeg",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-006_eeg.eeg",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-10/ses-001/eeg/sub-10_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-001_eeg.eeg",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-002_eeg.eeg",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-003_eeg.eeg",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-004_eeg.eeg",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-005_eeg.eeg",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-006_eeg.eeg",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-11/ses-001/eeg/sub-11_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-001_eeg.eeg",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-002_eeg.eeg",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-003_eeg.eeg",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-004_eeg.eeg",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-005_eeg.eeg",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-00_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-00_eeg.eeg",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-00_eeg.vhdr",
+        "sub-12/ses-001/eeg/sub-12_ses-001_task-main_run-00_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-001_eeg.eeg",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-002_eeg.eeg",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-003_eeg.eeg",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-004_eeg.eeg",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-005_eeg.eeg",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-006_eeg.eeg",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-13/ses-001/eeg/sub-13_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-001_eeg.eeg",
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-002_eeg.eeg",
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-003_eeg.eeg",
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-004_eeg.eeg",
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-006_eeg.eeg",
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-14/ses-001/eeg/sub-14_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-001_eeg.eeg",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-002_eeg.eeg",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-003_eeg.eeg",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-004_eeg.eeg",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-005_eeg.eeg",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-006_eeg.eeg",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-15/ses-001/eeg/sub-15_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-001_eeg.eeg",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-002_eeg.eeg",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-003_eeg.eeg",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-004_eeg.eeg",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-005_eeg.eeg",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-006_eeg.eeg",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-16/ses-001/eeg/sub-16_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-001_eeg.eeg",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-002_eeg.eeg",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-003_eeg.eeg",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-004_eeg.eeg",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-005_eeg.eeg",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-006_eeg.eeg",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-17/ses-001/eeg/sub-17_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-001_eeg.eeg",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-002_eeg.eeg",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-003_eeg.eeg",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-004_eeg.eeg",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-005_eeg.eeg",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-006_eeg.eeg",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-18/ses-001/eeg/sub-18_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-001_eeg.eeg",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-002_eeg.eeg",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-003_eeg.eeg",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-004_eeg.eeg",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-005_eeg.eeg",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-006_eeg.eeg",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-19/ses-001/eeg/sub-19_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-001_eeg.eeg",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-002_eeg.eeg",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-003_eeg.eeg",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-004_eeg.eeg",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-005_eeg.eeg",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-006_eeg.eeg",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-20/ses-001/eeg/sub-20_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-001_eeg.eeg",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-002_eeg.eeg",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-003_eeg.eeg",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-004_eeg.eeg",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-005_eeg.eeg",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-006_eeg.eeg",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-21/ses-001/eeg/sub-21_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-001_eeg.eeg",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-002_eeg.eeg",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-003_eeg.eeg",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-004_eeg.eeg",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-005_eeg.eeg",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-006_eeg.eeg",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-22/ses-001/eeg/sub-22_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-001_eeg.eeg",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-002_eeg.eeg",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-003_eeg.eeg",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-004_eeg.eeg",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-005_eeg.eeg",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-006_eeg.eeg",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-24/ses-001/eeg/sub-24_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-001_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-001_eeg.eeg",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-001_eeg.vhdr",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-001_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-002_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-002_eeg.eeg",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-002_eeg.vhdr",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-002_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-003_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-003_eeg.eeg",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-003_eeg.vhdr",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-003_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-004_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-004_eeg.eeg",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-004_eeg.vhdr",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-004_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-005_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-005_eeg.eeg",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-005_eeg.vhdr",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-005_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    },
+    {
+      "path": "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-006_eeg.json",
+      "task_token": "main",
+      "source_files": [
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-006_eeg.eeg",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-006_eeg.vhdr",
+        "sub-26/ses-001/eeg/sub-26_ses-001_task-main_run-006_eeg.vmrk"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "ac48d9f80873502104a976883d37373867af635a3de7ac987d43d0017a073d3f"
+    }
+  ]
+}
